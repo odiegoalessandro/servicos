@@ -10,7 +10,7 @@ checkbox.addEventListener('change', function(){
         basic.innerHTML = "<b>$</b>119,99"
     }
     else{
-        basic.innerHTML = "<b>$</b>39,99"
+        basic.innerHTML = "<b>$</b>19,99"
         pro.innerHTML = "<b>$</b>24,99"
         master.innerHTML = "<b>$</b>39,99"
     }
