@@ -58,6 +58,7 @@ body{
 .container__box--basic:hover{
     background: linear-gradient(#9c9fee, #3e4083);
     color: #fff;
+    transform: scale(1.1);
     transition: 0.5s;
 }
 .container__box--basic:hover a{
@@ -121,6 +122,7 @@ body{
 .container__box--professional:hover{
     background: linear-gradient(#9c9fee, #3e4083);
     color: #fff;
+    transform: scale(1.1);
     transition: 0.5s;
 }
 .container__box--professional:hover a{
@@ -163,6 +165,7 @@ body{
 .container__box--master:hover{
     background: linear-gradient(#9c9fee, #3e4083);
     color: #fff;
+    transform: scale(1.1);
     transition: 0.5s;
 }
 .container__box--master:hover a{
