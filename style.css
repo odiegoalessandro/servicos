@@ -163,3 +163,13 @@ body{
     background: #fff;
     color: #000;
 }
+@media screen and (max-width: 520px){
+    .container__box--master{
+        margin-left: 15px;
+    }
+}
+@media screen and (max-width: 518px){
+    .container__box--master{
+        margin-left: 0;
+    }
+}
