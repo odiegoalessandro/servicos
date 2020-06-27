@@ -64,7 +64,7 @@ body{
 .container__box--basic h1{
     border-bottom: 1px solid #000;
     font-size: 40px;
-    
+    transition: 0.5s;
 }
 .container__box--basic p{
     padding: 3px 0;
@@ -94,7 +94,7 @@ body{
 .container__box--professional h1{
     border-bottom: 1px solid #000;
     font-size: 40px;
-    
+    transition: 0.5s;
 }
 .container__box--professional p{
     padding: 3px 0;
@@ -135,7 +135,7 @@ body{
 .container__box--master h1{
     border-bottom: 1px solid #000;
     font-size: 40px;
-    
+    transition: 0.5s;
 }
 .container__box--master p{
     padding: 3px 0;
